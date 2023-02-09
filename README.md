@@ -10,4 +10,4 @@
 
 pdfファイルは51ページあるので，ダウンロードしてお読みいただくことをオススメします．
 # Code
-実行しているコードは主に[R言語]([https://github.com/ShoShohh/T.W.Anderson-2003-_Hypo/tree/main/with%20R](https://github.com/ShoShohh/Asymptotic-Theory-of-PCA/tree/main/with%20R))ですが，同様の出力を行うような[Python]()も（準備でき次第）載せています．
+実行しているコードは主に[R言語](https://github.com/ShoShohh/T.W.Anderson-2003-_Hypo/tree/main/with%20R](https://github.com/ShoShohh/Asymptotic-Theory-of-PCA/tree/main/with%20R)ですが，同様の出力を行うような[Python]()も（準備でき次第）載せています．
